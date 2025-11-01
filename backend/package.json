@@ -1,0 +1,17 @@
+{
+  "name": "beezify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.18.2",
+    "node-cron": "^4.2.1",
+    "pg": "^8.16.3"
+  }
+}

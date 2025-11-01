@@ -1,0 +1,31 @@
+{
+  "contracts": {
+    "BeezifyPriceOracle": "./BeezifyPriceOracle.cdc"
+  },
+  "networks": {
+    "emulator": "127.0.0.1:3569",
+    "mainnet": "access.mainnet.nodes.onflow.org:9000",
+    "testnet": "access.devnet.nodes.onflow.org:9000"
+  },
+  "accounts": {
+    "emulator-account": {
+      "address": "f8d6e0586b0a20c7",
+      "key": {
+        "type": "file",
+        "location": "account.pkey"
+      }
+    },
+    "testnet-account": {
+      "address": "0x3e0801de3e47e32d",
+      "key": {
+        "type": "file",
+        "location": "account.pkey"
+      }
+    }
+  },
+  "deployments": {
+    "testnet": {
+      "testnet-account": ["BeezifyPriceOracle"]
+    }
+  }
+}
