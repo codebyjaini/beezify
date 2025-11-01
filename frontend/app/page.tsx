@@ -196,7 +196,7 @@ export default function Home() {
 
       <div className="container mx-auto px-4 py-8">
         {/* Stats Cards */}
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
+        {/* <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-8">
           <Card className="border-l-4 border-l-blue-500">
             <CardHeader className="pb-2">
               <CardTitle className="text-sm font-medium text-gray-600">
@@ -212,7 +212,7 @@ export default function Home() {
               </div>
             </CardContent>
           </Card>
-        </div>
+        </div> */}
 
         {/* Filters */}
         <Card className="mb-6 shadow-md">
