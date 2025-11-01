@@ -322,30 +322,4 @@ beezify/
 
 > **Implementation Note:** The smart contract is currently deployed as a standalone demonstration for the hackathon. It showcases Beezify's blockchain-ready architecture and can be fully integrated in future iterations.
 
-## 📝 License
-
-MIT License - see LICENSE file for details
-
-## 🤝 Contributing
-
-Contributions welcome! Please read CONTRIBUTING.md first.
-
-## 🐛 Issues
-
-Found a bug? [Open an issue](https://github.com/yourusername/beezify/issues)
-
-## 📞 Contact
-
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Discord: [Join Flow Discord](https://discord.gg/flow)
-
-## 🙏 Acknowledgments
-
-- **Flow Blockchain** - For the amazing hackathon
-- **Beezie** - For the marketplace API access
-- **ALT.xyz** - For grading data
-- **Flow Community** - For support and resources
-
----
-
 **Built with ❤️ on Flow Blockchain 🌊**
